@@ -8,7 +8,7 @@ The system retrieves relevant document chunks using semantic search and generate
 
 # 🚀 Features
 
-* 📄 Upload one or multiple PDF documents
+* 📄  Upload one or multiple PDF documents
 * ✂️ Automatic document chunking
 * 🧠 Semantic search using vector embeddings
 * 🔍 Context-aware retrieval with FAISS
